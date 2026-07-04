@@ -2,7 +2,7 @@
 Task-14
 # JavaScript Number Operations
 
-A beginner-friendly JavaScript program that performs various operations on a given number, including finding the sum of its digits, checking whether it is an Armstrong number, checking whether it is a prime number, and printing all its factors.
+A JavaScript program that performs various operations on a given number, including finding the sum of its digits, checking whether it is an Armstrong number, checking whether it is a prime number, and printing all its factors.
 
 ## Objective
 
