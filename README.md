@@ -35,9 +35,10 @@ JavaScript-Number-Operations/
 ## How to Run
 
 1. Clone or download the repository.
-2. Open the project folder.
-3. Open `index.html` in your web browser.
-4. Press **F12** and open the **Console** tab to view the output.
+2. https://github.com/kjwashim/Task-14-JavaScript-Loops.git
+3. Open the project folder.
+4. Open `index.html` in your web browser.
+5. Press **F12** and open the **Console** tab to view the output.
 
 ## Sample Output
 
