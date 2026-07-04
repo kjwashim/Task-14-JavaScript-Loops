@@ -24,8 +24,6 @@ JavaScript-Number-Operations/
 
 ## Features
 
-- Find the sum of the first **N** natural numbers.
-- Print the multiplication table of a given number.
 - Check whether a number is prime.
 - Print all factors of a number.
 - Find the sum of digits of a number.
